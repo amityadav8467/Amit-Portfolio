@@ -11,7 +11,7 @@ const Footer = () => {
             <div>
               <h3 className="text-2xl font-bold mb-4">Amit Yadav</h3>
               <p className="text-gray-400 mb-4">
-                BCA Student & Junior Web Developer passionate about creating beautiful and functional web experiences.
+                Full-Stack Developer & Founder of Codexora Solutions, building real web products that make a difference.
               </p>
             </div>
 
